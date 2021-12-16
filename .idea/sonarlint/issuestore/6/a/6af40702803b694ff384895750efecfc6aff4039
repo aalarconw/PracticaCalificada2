@@ -1,0 +1,11 @@
+
+v
+java:S6206"YRefactor this class declaration to use 'record Pair(FirstType first, SecondType second)'.(Öá°³8×ÍßìÙ/
+e	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Öá°³8ØÍßìÙ/
+e	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Öá°³8ØÍßìÙ/
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ØÙ¾«8ØÍßìÙ/
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(áÙÏß8ÙÍßìÙ/
+0
+java:S1220""Move this file to a named package.
